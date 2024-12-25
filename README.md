@@ -15,6 +15,5 @@ Fitur Utama
 Struktur Query
 Query ini melakukan operasi JOIN antara tiga tabel untuk menggabungkan informasi yang relevan, dan menggunakan CASE untuk menentukan persentase gross laba berdasarkan harga produk. Hasil akhir mencakup kolom-kolom penting yang memberikan gambaran menyeluruh tentang transaksi.
 
-Hasil Analisa
 Anda dapat melihat dashboard analisa data pada url berikut:
 https://lookerstudio.google.com/reporting/599a0d10-6a88-4329-9f54-b7d0dafd8799
