@@ -1,5 +1,5 @@
 Deskripsi
-Skrip SQL ini dirancang untuk menganalisis data transaksi dari Kimia Farma. Skrip ini menggabungkan informasi dari beberapa tabel untuk memberikan wawasan mendalam tentang transaksi yang terjadi di berbagai cabang. Data yang diambil mencakup detail transaksi, informasi cabang, produk yang dijual, serta perhitungan laba bersih dan penjualan bersih setelah diskon.
+SQL ini dirancang untuk menganalisis data transaksi dari Kimia Farma. Skrip ini menggabungkan informasi dari beberapa tabel untuk memberikan wawasan mendalam tentang transaksi yang terjadi di berbagai cabang. Data yang diambil mencakup detail transaksi, informasi cabang, produk yang dijual, serta perhitungan laba bersih dan penjualan bersih setelah diskon.
 
 Tabel yang Digunakan
 1. kimia_farma.kf_final_transaction (ft): Tabel ini menyimpan data transaksi final, termasuk ID transaksi, tanggal, ID cabang, nama pelanggan, ID produk, dan rating transaksi.
