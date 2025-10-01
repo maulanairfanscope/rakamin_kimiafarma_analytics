@@ -1,3 +1,5 @@
+#Performance Analytics Kimia Farma Business Year 2020 - 2023
+
 SQL ini dirancang untuk menganalisis data transaksi dari Kimia Farma. Skrip ini menggabungkan informasi dari beberapa tabel untuk memberikan wawasan mendalam tentang transaksi yang terjadi di berbagai cabang. Data yang diambil mencakup detail transaksi, informasi cabang, produk yang dijual, serta perhitungan laba bersih dan penjualan bersih setelah diskon.
 
 Tabel yang Digunakan
